@@ -22,14 +22,25 @@
     display: flex;
 }
 
+.hamburger-menu-container {
+    display: flex;
+    align-items: center;
+}
+
 .hamburger-menu {
     height: 24px;
     margin-left: 24px;
     margin-right: 20px;
 }
 
+.youtube-logo-container {
+  display: flex;
+  align-items: center;
+}
+
 .youtube-logo {
-    height: 20px;
+  height: 20px;
+  margin-right: 4px;
 }
 
 .middle-section {
@@ -163,6 +174,6 @@
 }
 
 .current-user-picture {
-    height: 36px;
-    border-radius: 16px;
+    height: 28px;
+    border-radius: 50%;
 }
