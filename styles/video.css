@@ -71,3 +71,9 @@
     bottom: 8px;
     right: 5px;
 }
+.thumbnail, 
+.video-title,
+.profile-picture,
+.video-author {
+    cursor: pointer;
+}
