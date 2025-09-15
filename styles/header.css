@@ -177,3 +177,15 @@
     height: 28px;
     border-radius: 50%;
 }
+
+.hamburger-menu,
+.youtube-logo,
+.search-button,
+.voice-search-button,
+.upload-icon,
+.youtube-apps-icon,
+.notifications-icon-container,
+.search-icon,
+.current-user-picture {
+    cursor: pointer;
+}
